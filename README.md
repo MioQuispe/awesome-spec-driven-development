@@ -1,6 +1,6 @@
 # Awesome Spec Driven Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A Selective list of awesome resources for Spec Driven Development
+A selective list of awesome resources for Spec Driven Development
 
 ## Tools
 
