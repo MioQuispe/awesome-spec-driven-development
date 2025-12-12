@@ -2,7 +2,7 @@
 
 A selective list of awesome resources for Spec Driven Development
 
-## Tools
+## Resources
 
 - [Kiro](https://kiro.dev/) - AI-powered IDE with built-in spec-driven development capabilities.
 - [OpenSpec](https://openspec.dev/) - OpenSpec aligns humans and AI coding assistants with spec-driven development so you agree on what to build before any code is written. 
